@@ -9,9 +9,6 @@
   <strong>Explore, Discover, and Engage with a Universe of Blogs!</strong>
 </p>
 
-<p align="center">
-  <img src="link_to_app_logo.png" alt="App Logo" width="200">
-</p>
 
 ## 🚀 Project Overview
 
@@ -48,8 +45,7 @@ The project embraces a structured directory layout to ensure clean organization 
   <img src="https://i.imgur.com/4JlBFCJ.jpeg" alt="Screenshot 1" width="200">
   <img src="https://i.imgur.com/1NinJOH.jpeg" alt="Screenshot 2" width="200">
   <img src="https://i.imgur.com/BSZNN9a.jpeg" alt="Screenshot 3" width="200">
-  <img src="https://i.imgur.com/ZOIsEJg.jpeg" alt="Screenshot 4" width="200">
-  <img src="https://i.imgur.com/xNty70s.jpeg" alt="Screenshot 5" width="200">
+  <img src="https://i.imgur.com/3PhDtLP.jpg" alt="Screenshot 4" width="200">
 </p>
 
 ## 🛠️ Getting Started
