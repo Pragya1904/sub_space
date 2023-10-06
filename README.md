@@ -29,9 +29,9 @@ The project embraces a structured directory layout to ensure clean organization 
     - **favourites/**: Keeps track of your favorite blogs.
     - **home/**: Orchestrates the home page, where blogs come to life.
       - **presentation/**: Houses the UI and presentation logic.
-        - **manager/**: Holds BLoCs (Business Logic Components) for the home page.
-        - **pages/**: Constructs the UI pages for the home feature.
-        - **widgets/**: Custom widgets that enhance the home feature.
+        - **manager/**: Holds BLoCs (Business Logic Components) for each feature.
+        - **pages/**: Constructs the UI pages for the feature.
+        - **widgets/**: Custom widgets that enhance the feature.
 
 ## ✨ Key Features
 
