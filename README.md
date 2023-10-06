@@ -1,4 +1,4 @@
-![image](https://github.com/Pragya1904/sub_space/assets/77471889/919b7049-dec0-441e-9925-8c8c6f18bb80)<h1 align="center">Subspace Blog Mania</h1>
+<h1 align="center">Subspace Blog Mania</h1>
 
 <p align="center">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-v2.5-blue.svg">
