@@ -9,10 +9,14 @@
   <strong>Explore, Discover, and Engage with a Universe of Blogs!</strong>
 </p>
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp1YTN5Z3F2YXBoOGYyYmxlc2VvZXJqMTEzNG1wY3l2bGx2N3p6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3gGz9Iclpln3sfzRUE/giphy.gif" alt="Demo of Project" width="300">
+</p>
+
 
 ## 🚀 Project Overview
 
-**Subspace Blog Mania** is a captivating Flutter mobile app that invites users to embark on a journey through a vast universe of blogs. Explore a diverse collection of blogs, dive into the details of each one, and curate your own list of favorites for quick access.
+**Subspace Blog Mania** is a captivating Flutter mobile app that invites users to embark on a journey through a vast universe of blogs. Explore a diverse collection of blogs, dive into the details of each one, and curate your own list of favourites for quick access.
 
 ## 📁 Project Structure
 
